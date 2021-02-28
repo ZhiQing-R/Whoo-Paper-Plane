@@ -1,7 +1,9 @@
 # Whoo-Paper-Plane
 This is a 3D infinite parkour game developed on Unity.
+
 The player needs to control the paper plane fly through the forest and get a higher mark.
-All the codes, models and music is made and designed by team mates.
+
+All the models and music is made and designed by our team mates!
 
 # Future Plan
 Add more scenes, like desert, moutains, town etc.
