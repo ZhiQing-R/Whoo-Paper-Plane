@@ -7,4 +7,13 @@ Add more scenes, like desert, moutains, town etc.
 Design different skins for the paper plane.
 Updata the map generating logic.
 
-#Pictures
+# Pictures
+![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic1.png)
+
+![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%202.png)
+
+![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%203.png)
+
+![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%204.png)
+
+I[Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%205.png)
