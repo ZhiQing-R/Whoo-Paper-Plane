@@ -12,6 +12,8 @@ Design different skins for the paper plane.
 
 Updata the map generating logic so as to generate bigger block on map.
 
+Add time and weather system.
+
 # Pictures
 ![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic1.png)
 
