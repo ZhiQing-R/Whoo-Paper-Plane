@@ -16,4 +16,4 @@ Updata the map generating logic.
 
 ![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%204.png)
 
-I[Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%205.png)
+![Image text](https://github.com/ZhiQing-R/Whoo-Paper-Plane/blob/master/img_folder/Pic%205.png)
